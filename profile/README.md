@@ -4,7 +4,7 @@ A curated collection of small, dynamic projects demonstrating the seamless integ
 The projects are also crafted with examples of frontend unit testing with React Testing Library. User interactions are enhanced with engaging sound effects, adding a layer of interactivity and fun to the learning experience.
 
 ## How to Install and Run Projects
-Sure, here's the installation and running instructions in a markdown bullet point list:
+Here's the installation and running instructions:
 
 1. Each of the projects is created with Create React App.
 2. Clone a repository of your choice:
